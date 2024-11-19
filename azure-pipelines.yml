@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: Keesh
+pool: testagent
 
 steps:
 - task: Maven@4
